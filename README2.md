@@ -32,7 +32,7 @@ git add <имя_файла>git commit
 ```
 git status
 ```
-```
+
 
 ## Инструкция по загрузке (git push):
 ```
