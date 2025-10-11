@@ -98,6 +98,7 @@
 
 ![Колдун](./img/2.png)
 ![Фэнтези мир](./img/perfect-world.png)
+![Гоблин](./img/Goblin.png)
    
    
    
