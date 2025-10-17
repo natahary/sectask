@@ -96,7 +96,7 @@
  - Возможность делиться достижениями и результатами в соцсетях
  - Возможность добавлять новые крафтовые рецепты в будущем
 
-![Колдун](https://github.com/img/2.png)
+![Колдун](https://github.com/natahary/sectask/blob/main/2.png)
 ![Фэнтези мир](./img/perfect-world.png)
 ![Гоблин](./img/Goblin.png)
    
