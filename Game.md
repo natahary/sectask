@@ -97,7 +97,7 @@
  - Возможность добавлять новые крафтовые рецепты в будущем
 
 ![Колдун](https://github.com/natahary/sectask/blob/main/2.png)
-![Фэнтези мир](./img/perfect-world.png)
+![Фэнтези мир](https://github.com/natahary/sectask/blob/main/perfect-world.png)
 ![Гоблин](https://github.com/natahary/sectask/blob/main/Goblin.png)
    
    
