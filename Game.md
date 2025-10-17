@@ -98,7 +98,7 @@
 
 ![Колдун](https://github.com/natahary/sectask/blob/main/2.png)
 ![Фэнтези мир](./img/perfect-world.png)
-![Гоблин](./img/Goblin.png)
+![Гоблин](https://github.com/natahary/sectask/blob/main/Goblin.png)
    
    
    
